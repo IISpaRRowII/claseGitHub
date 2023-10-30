@@ -1,4 +1,5 @@
-
+import problema1
+from alumnos import alumnos
 '''
 hasta ahora hemos
 trabajado con variables
@@ -13,6 +14,8 @@ altura = 1.79
 nombre = "juan"
 
 estado = True
+
+print("hello world")
 
 '''
 En python podemos 
@@ -40,6 +43,7 @@ if __name__ == '__main__':
     '''
     cantidad de elementos de cada lista
     '''
+    '''
     print(len(lista1))
     print(len(lista2))
     print(len(lista3))
@@ -47,3 +51,12 @@ if __name__ == '__main__':
 
     print()
     print(lista1, lista2, lista3, lista4)
+
+    print()
+
+    problema1.sumar_5_enteros()
+    '''
+    print()
+
+    alumnos()
+
