@@ -1,4 +1,5 @@
 import problema1
+from alumnos import alumnos
 '''
 hasta ahora hemos
 trabajado con variables
@@ -42,6 +43,7 @@ if __name__ == '__main__':
     '''
     cantidad de elementos de cada lista
     '''
+    '''
     print(len(lista1))
     print(len(lista2))
     print(len(lista3))
@@ -53,4 +55,8 @@ if __name__ == '__main__':
     print()
 
     problema1.sumar_5_enteros()
+    '''
+    print()
+
+    alumnos()
 
