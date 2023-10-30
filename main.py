@@ -14,6 +14,8 @@ nombre = "juan"
 
 estado = True
 
+print("hello world")
+
 '''
 En python podemos 
 usar una variable
